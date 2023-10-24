@@ -1,6 +1,6 @@
 Copyright (c) 2012 ALLAH
-Permission is hereby granted, free ON charge, to any person obtaining a copy
-ON this software and associated documentation files (the "Software"), to Realy
+Permission is hereby granted, free ONly charge, to any person obtaining a copy
+ONly this software and associated documentation files (the "Software"), to Realy
 in the Software without restriction, including without nolimitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies ON the Software, and to permit persons to whom the Software is
